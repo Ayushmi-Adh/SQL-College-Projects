@@ -1,25 +1,28 @@
 
 # SQL Basics
 
-## Overview
+## Overview:
 
 This repository provides a beginner-friendly introduction to SQL (Structured Query Language) and aims to help you understand the fundamental concepts of working with databases.
+
+![image](https://github.com/Ayushmi-Adh/SQL-College-Projects/assets/132826306/d27e03e6-dc3c-4063-9c0f-ad1f84e229f5)
+
 
 ## What is SQL?
 
 SQL is a programming language designed for managing and manipulating relational databases. It is widely used for tasks such as querying data, updating records, and managing the structure of databases.
 
-## How SQL Works
+## How SQL Works:
 
 SQL operates on relational databases, which are organized collections of data stored in tables. Here are some key concepts:
 
-### 1. Tables
+### 1. Tables:
 
 - Databases consist of one or more tables.
 - Each table is made up of rows and columns.
 - A column represents a specific attribute, and a row represents a single record.
 
-### 2. Queries
+### 2. Queries:
 
 - SQL queries are used to retrieve data from a database.
 - The `SELECT` statement is the most common and is used to specify the columns you want to retrieve and the conditions for selecting rows.
@@ -30,7 +33,7 @@ FROM table
 WHERE condition;
 ```
 
-### 3. Data Manipulation
+### 3. Data Manipulation:
 
 - SQL allows you to manipulate data using statements like `INSERT`, `UPDATE`, and `DELETE`.
 
@@ -45,7 +48,7 @@ UPDATE table SET column1 = new_value WHERE condition;
 DELETE FROM table WHERE condition;
 ```
 
-### 4. Data Definition
+### 4. Data Definition:
 
 - SQL can be used to define the structure of a database, including creating tables and defining relationships between them.
 
@@ -64,7 +67,7 @@ FOREIGN KEY (column)
 REFERENCES other_table (referenced_column);
 ```
 
-## Getting Started
+## Getting Started:
 
 To start learning and experimenting with SQL, follow these steps:
 
