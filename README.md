@@ -50,7 +50,7 @@ DELETE FROM table WHERE condition;
 
 ### 4. Data Definition:
 
-- SQL can be used to define the structure of a database, including creating tables and defining relationships between them.
+- SQL can be used to define the structure of a database, including creating tables and defining relationships between them...
 
 ```sql
 -- Creating a table
